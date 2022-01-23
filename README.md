@@ -1,2 +1,3 @@
 # teste
-Teste
+# Pasta criada para o Curso Intordução ao Git/GitHub
+
