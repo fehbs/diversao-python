@@ -14,6 +14,6 @@ print("-=-" *13)
 for c in range (1,11):
     print(f'{n}  x  {c:2} = {n*c} ')
 print("-=-" * 13)
-print('Estou estudando muito para lhe oferecer uma experiência melhor!!!')
+print('Estou estudando muito para lhe proporcionar uma experiência melhor!!!')
 print("-=-" * 13)
 
